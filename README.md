@@ -1,4 +1,4 @@
-# CODSOFT
+# Movie Genre
 # Project Description
 This project focuses on analyzing the relationship between movies and their respective genres using data from multiple text files. We aim to uncover insights into genre popularity, movie trends, and other relevant patterns in the movie industry.
 
